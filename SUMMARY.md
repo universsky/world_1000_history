@@ -4,11 +4,12 @@
 * [世界风云人物花名册](世界风云人物花名册.md)
 * [希特勒的遗嘱](希特勒经典语录.md)
 * [光明会\(Illuminati\)](犹太光明会.md)
-* [共济会\(Freemasons\):Rothschild家族](共济会freemasons.md)
+* [共济会\(Freemasons\)](共济会freemasons.md)
 * [玫瑰十字团](玫瑰十字团.md)
 * [乔治亚巨石阵](乔治亚巨石阵.md)
 * [美国总统的安全保密层级](美国总统的安全保密层级.md)
 * [Majectic-12\(MJ-12\)](mj-12.md)
 * [影响世界的100件事情](影响世界的100件事情.md)
 * [犹太人的圣经《塔木德》](犹太人的圣经《塔木德》.md)
+* [Rothschild家族](rothschild家族.md)
 
