@@ -4,4 +4,5 @@
 * [First Chapter](chapter1.md)
 * [希特勒的遗嘱](希特勒经典语录.md)
 * [犹太光明会](犹太光明会.md)
+* [共济会\(Freemasons\)](共济会freemasons.md)
 
